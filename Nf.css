@@ -1,0 +1,236 @@
+.container{
+    border: solid 1px black;
+    height: 4000px;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.bg{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.blur{
+    position: absolute;
+    top: 0px;
+    height: 750px;
+    width: 100%;
+    border: solid 0px rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.nflogo{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.t1{
+    position: absolute;
+    top: 220px;
+    left: 420px;
+}
+.t2{
+    position: absolute;
+    top: 380px;
+    left: 480px;
+}
+.t3{
+    position: absolute;
+    top: 445px;
+    left: 370px;
+}
+.signin{
+    position: absolute;
+    top: 30px;
+    right: 50px;
+}
+.lang{
+    position: absolute;
+    top: 30px;
+    right: 180px
+}
+.enter{
+    position: absolute;
+    top: 500px;
+    left: 350px;
+}
+.line, .line2, .line3, .line4, .line5, .line6, .line7{
+    height: 10px;
+    width: 100%;
+    margin-top: -7px;
+    border: 0px;
+    background-color: rgba(0, 0, 0, 0.767);
+}
+.part1, .part2, .part3, .part4, .part5, .part6{
+    border: 0px;
+    background-color: black;
+    height: 450px;
+    width: 100%;
+    position: absolute;
+    top: 757px;
+}
+.line2{
+    position: absolute;
+    top: 1210px;
+}
+.part2{
+    top: 1213px;
+}
+.line3{
+    position: absolute;
+    top: 1670px;
+}
+.part3{
+    position: absolute;
+    top: 1670px;
+    height: 520px;
+}
+.line4{
+    position: absolute;
+    top: 2195px;
+}
+.part4{
+    position: absolute;
+    top: 2198px;
+    height: 520px;
+}
+.line5{
+    position: absolute;
+    top: 2725px;
+}
+.part5{
+    position: absolute;
+    top: 2727px;
+    height: 850px;
+}
+.line6{
+    position: absolute;
+    top: 3583px;
+}
+.part6{
+    position: absolute;
+    top: 3585px;
+}
+
+.text1{
+    position: absolute;
+    top: 850px;
+    left: 120px;
+}
+.text2{
+    position: absolute;
+    top: 950px;
+    left: 120px;
+}
+.img1{
+    position: absolute;
+    top: 760px;
+    right: 60px;
+
+}
+.p2t1{
+    position: absolute;
+    top: 1300px;
+    right: 120px;
+}
+.p2t2{
+    position: absolute;
+    top: 1460px;
+    right: 155px;
+}
+.img2{
+    position: absolute;
+    top: 1230px;
+    left: 80px;
+}
+.p3t1{
+    position: absolute;
+    top: 1800px;
+    left: 120px;
+}
+.p3t2{
+    position: absolute;
+    top: 1900px;
+    left: 120px;
+}
+.img3{
+    position: absolute;
+    top: 1720px;
+    right: 90px;
+}
+.p4t1{
+    position: absolute;
+    top: 2300px;
+    right: 200px;
+}
+.p4t2{
+    position: absolute;
+    top: 2450px;
+    right: 140px;
+}
+.img4{
+    position: absolute;
+    top: 2250px;
+    left: 100px;
+}
+.p5t1{
+    position: absolute;
+    top: 2750px;
+    left: 350px;
+}
+.button{
+    position: absolute;
+    top: 2900px;
+    left: 280px;
+}
+.text{
+    position: absolute;
+    top: 3400px;
+    left: 350px;
+}
+.enter2{
+    position: absolute;
+    top: 3460px;
+    left: 340px;
+}
+.ft1{
+    position: absolute;
+    top: 3650px;
+    left: 230px;
+}
+.l1{
+    position: absolute;
+    top: 3710px;
+    left: 190px;
+}
+.l2{
+    position: absolute;
+    top: 3710px;
+    left: 390px;
+}
+.l3{
+    position: absolute;
+    top: 3710px;
+    left: 590px;
+}
+.l4{
+    position: absolute;
+    top: 3710px;
+    left: 790px;
+}
+.lang2{
+    position: absolute;
+    top: 3920px;
+    left: 220px;
+}
+.fttxt{
+    position: absolute;
+    top: 3960px;
+    left: 230px;
+}
+.gif img{
+    position: relative;
+    bottom: 320px;
+    left: 70px;
+    z-index: 0;
+}
